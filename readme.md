@@ -1,5 +1,8 @@
 # جزوه جامع آموزشی: طراحی محصول، مبانی UI/UX، فیگما و پیاده‌سازی با هوش مصنوعی
 
+<img width="765" height="1024" alt="image" src="https://github.com/user-attachments/assets/f8eee03e-37e9-4943-99b9-8a38253acc72" />
+
+
 ---
 
 ## مقدمه و نقشه راه جلسه
